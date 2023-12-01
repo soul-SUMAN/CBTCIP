@@ -54,3 +54,20 @@ form #equal {
     float: right;
     
 }
+
+.box{
+    padding: 3px;
+    border-radius: 40px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-size: large;
+    font-style:oblique;
+}
+.stylish{
+    box-sizing: border-box;
+    width: 115px;
+    border-radius: 88px;
+    background-color:rgb(95 251 255 / 69%)
+    
+}
