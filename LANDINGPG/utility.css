@@ -1,0 +1,25 @@
+.main-hight{
+    min-height: 100vh;
+}
+.bg-red{
+    background-color: red;
+}
+.flex{
+    display: flex;
+}
+.item-center{
+    align-items: center;
+}
+.justify-content{
+    justify-content: space-around;
+}
+
+.logo{
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Nova Square', sans-serif;
+    font-size: xx-large;
+}
+.space-between{
+    justify-content: space-between;
+}
+
